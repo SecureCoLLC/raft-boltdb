@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/binary"
 
-	"github.com/hashicorp/go-msgpack/codec"
+	"github.com/securecollc/go-msgpack/codec"
 )
 
 // Decode reverses the encode operation on a byte slice input
